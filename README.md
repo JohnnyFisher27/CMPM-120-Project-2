@@ -4,6 +4,8 @@ By Johnny Fisher
 
 An arcade space shooter game set in Super Space (Much cooler than regular space)
 
+Use arrow keys to move around
+
 Every time you kill an "Imp" + 100 points
 Every time you kill a "Demon" + 200 points
 
